@@ -7,6 +7,7 @@ Leetcodinggg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0077-combinations](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0078-subsets/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -44,4 +45,12 @@ Leetcodinggg
 | [0094-binary-tree-inorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
