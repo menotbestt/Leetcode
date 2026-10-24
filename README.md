@@ -101,4 +101,20 @@ Leetcodinggg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0207-course-schedule/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0141-linked-list-cycle/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0141-linked-list-cycle/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
