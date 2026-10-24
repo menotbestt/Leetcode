@@ -23,6 +23,7 @@ Leetcodinggg
 | [0124-binary-tree-maximum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0207-course-schedule](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0207-course-schedule/) | Medium |
+| [0547-number-of-provinces](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Breadth-First Search
@@ -30,12 +31,14 @@ Leetcodinggg
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0207-course-schedule](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0207-course-schedule/) | Medium |
+| [0547-number-of-provinces](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0207-course-schedule/) | Medium |
+| [0547-number-of-provinces](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
@@ -94,6 +97,7 @@ Leetcodinggg
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0547-number-of-provinces/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
