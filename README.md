@@ -19,6 +19,7 @@ Leetcodinggg
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
 ## Breadth-First Search
@@ -43,12 +44,14 @@ Leetcodinggg
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -71,4 +74,12 @@ Leetcodinggg
 | ------- | ------- |
 | [0051-n-queens](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0052-n-queens-ii/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
