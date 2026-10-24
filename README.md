@@ -1,5 +1,5 @@
 # Leetcode
-Leetcodinggg
+Tracking my Leetcoding progress!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
