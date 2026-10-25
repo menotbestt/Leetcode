@@ -57,6 +57,7 @@ Tracking my Leetcoding progress!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
@@ -83,6 +84,7 @@ Tracking my Leetcoding progress!
 | [0047-permutations-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0078-subsets/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0130-surrounded-regions](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0130-surrounded-regions/) | Medium |
 | [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0733-flood-fill](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
@@ -160,6 +162,11 @@ Tracking my Leetcoding progress!
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
