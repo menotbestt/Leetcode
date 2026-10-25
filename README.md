@@ -58,6 +58,7 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -83,6 +84,7 @@ Tracking my Leetcoding progress!
 | [0051-n-queens](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0078-subsets/) | Medium |
 | [0130-surrounded-regions](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0130-surrounded-regions/) | Medium |
+| [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0733-flood-fill](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 | [1020-number-of-enclaves](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1020-number-of-enclaves/) | Medium |
@@ -134,6 +136,7 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0141-linked-list-cycle/) | Easy |
+| [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,5 +160,6 @@ Tracking my Leetcoding progress!
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
