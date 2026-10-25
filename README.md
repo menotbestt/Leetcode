@@ -58,6 +58,7 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0739-daily-temperatures](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ Tracking my Leetcoding progress!
 | [0078-subsets](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0078-subsets/) | Medium |
 | [0130-surrounded-regions](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
+| [0739-daily-temperatures](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 | [1020-number-of-enclaves](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2658-maximum-number-of-fish-in-a-grid/) | Medium |
@@ -152,4 +154,8 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
