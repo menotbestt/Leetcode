@@ -6,6 +6,7 @@ Tracking my Leetcoding progress!
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0046-permutations/) | Medium |
@@ -101,6 +102,7 @@ Tracking my Leetcoding progress!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -142,4 +144,12 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0141-linked-list-cycle/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
