@@ -147,6 +147,7 @@ Tracking my Leetcoding progress!
 | [0003-longest-substring-without-repeating-characters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0141-linked-list-cycle/) | Easy |
 | [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
+| [0567-permutation-in-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0141-linked-list-cycle/) | Easy |
+| [0567-permutation-in-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +167,7 @@ Tracking my Leetcoding progress!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
+| [0567-permutation-in-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,4 +198,5 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
