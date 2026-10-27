@@ -61,6 +61,7 @@ Tracking my Leetcoding progress!
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 | [1472-design-browser-history](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1472-design-browser-history/) | Medium |
@@ -170,6 +171,7 @@ Tracking my Leetcoding progress!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
 ## Bracket Sequences
@@ -180,6 +182,7 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 ## Range Minimum/Maximum Query
@@ -216,4 +219,8 @@ Tracking my Leetcoding progress!
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1004-max-consecutive-ones-iii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0316-remove-duplicate-letters/) | Medium |
 <!---LeetCode Topics End-->
