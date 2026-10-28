@@ -65,6 +65,7 @@ Tracking my Leetcoding progress!
 | [0316-remove-duplicate-letters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1472-design-browser-history](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1472-design-browser-history/) | Medium |
 ## Tree
@@ -196,6 +197,7 @@ Tracking my Leetcoding progress!
 | [0316-remove-duplicate-letters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
@@ -204,6 +206,7 @@ Tracking my Leetcoding progress!
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0901-online-stock-span](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1472-design-browser-history/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -212,6 +215,7 @@ Tracking my Leetcoding progress!
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0901-online-stock-span](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1472-design-browser-history/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
