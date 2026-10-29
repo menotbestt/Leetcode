@@ -244,4 +244,12 @@ Tracking my Leetcoding progress!
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0050-powx-n/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
