@@ -86,6 +86,7 @@ Tracking my Leetcoding progress!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0015-3sum/) | Medium |
 | [0039-combination-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0042-trapping-rain-water/) | Hard |
@@ -116,6 +117,7 @@ Tracking my Leetcoding progress!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0047-permutations-ii/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
@@ -174,6 +176,7 @@ Tracking my Leetcoding progress!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0141-linked-list-cycle/) | Easy |
 | [0567-permutation-in-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
