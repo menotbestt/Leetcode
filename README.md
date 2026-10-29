@@ -95,6 +95,7 @@ Tracking my Leetcoding progress!
 | [0078-subsets](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0130-surrounded-regions](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0130-surrounded-regions/) | Medium |
+| [0198-house-robber](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0198-house-robber/) | Medium |
 | [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
@@ -127,6 +128,7 @@ Tracking my Leetcoding progress!
 | [0022-generate-parentheses](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0042-trapping-rain-water/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0198-house-robber](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0198-house-robber/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## DP on Trees
