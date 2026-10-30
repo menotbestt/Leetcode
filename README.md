@@ -29,6 +29,7 @@ Tracking my Leetcoding progress!
 | [0207-course-schedule](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0207-course-schedule/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0547-number-of-provinces](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0547-number-of-provinces/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0563-binary-tree-tilt/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0590-n-ary-tree-postorder-traversal/) | Easy |
@@ -46,6 +47,7 @@ Tracking my Leetcoding progress!
 | [0207-course-schedule](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0207-course-schedule/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0547-number-of-provinces](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0547-number-of-provinces/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [1020-number-of-enclaves](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1020-number-of-enclaves/) | Medium |
@@ -87,6 +89,7 @@ Tracking my Leetcoding progress!
 | [0129-sum-root-to-leaf-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0563-binary-tree-tilt/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0590-n-ary-tree-postorder-traversal/) | Easy |
