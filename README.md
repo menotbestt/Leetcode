@@ -36,6 +36,7 @@ Tracking my Leetcoding progress!
 | [0733-flood-fill](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [1020-number-of-enclaves](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1020-number-of-enclaves/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -53,6 +54,7 @@ Tracking my Leetcoding progress!
 | [0797-all-paths-from-source-to-target](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0994-rotting-oranges](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1020-number-of-enclaves/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -96,6 +98,7 @@ Tracking my Leetcoding progress!
 | [0563-binary-tree-tilt](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0563-binary-tree-tilt/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +109,7 @@ Tracking my Leetcoding progress!
 | [0129-sum-root-to-leaf-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0563-binary-tree-tilt/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
