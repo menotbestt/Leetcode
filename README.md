@@ -113,6 +113,7 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0078-subsets/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0779-k-th-symbol-in-grammar/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -253,8 +254,10 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0050-powx-n/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0779-k-th-symbol-in-grammar/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0050-powx-n/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0779-k-th-symbol-in-grammar/) | Medium |
 <!---LeetCode Topics End-->
