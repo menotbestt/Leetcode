@@ -43,6 +43,7 @@ Tracking my Leetcoding progress!
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
@@ -108,6 +109,7 @@ Tracking my Leetcoding progress!
 | [0988-smallest-string-starting-from-leaf](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@ Tracking my Leetcoding progress!
 | [0988-smallest-string-starting-from-leaf](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
