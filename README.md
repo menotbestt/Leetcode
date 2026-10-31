@@ -18,6 +18,7 @@ Tracking my Leetcoding progress!
 | [0078-subsets](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0078-subsets/) | Medium |
 | [0216-combination-sum-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0216-combination-sum-iii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
+| [0988-smallest-string-starting-from-leaf](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ Tracking my Leetcoding progress!
 | [0590-n-ary-tree-postorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0733-flood-fill](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
+| [0988-smallest-string-starting-from-leaf](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1020-number-of-enclaves](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1020-number-of-enclaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
@@ -98,6 +100,7 @@ Tracking my Leetcoding progress!
 | [0563-binary-tree-tilt](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0563-binary-tree-tilt/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -109,6 +112,7 @@ Tracking my Leetcoding progress!
 | [0129-sum-root-to-leaf-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0563-binary-tree-tilt](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0563-binary-tree-tilt/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -226,6 +230,7 @@ Tracking my Leetcoding progress!
 | [0316-remove-duplicate-letters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
+| [0988-smallest-string-starting-from-leaf](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
