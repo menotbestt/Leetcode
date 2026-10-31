@@ -17,6 +17,7 @@ Tracking my Leetcoding progress!
 | [0077-combinations](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0078-subsets/) | Medium |
 | [0216-combination-sum-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0216-combination-sum-iii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0257-binary-tree-paths/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Depth-First Search
@@ -29,6 +30,7 @@ Tracking my Leetcoding progress!
 | [0130-surrounded-regions](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0207-course-schedule/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0257-binary-tree-paths/) | Easy |
 | [0547-number-of-provinces](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0563-binary-tree-tilt/) | Easy |
@@ -95,6 +97,7 @@ Tracking my Leetcoding progress!
 | [0124-binary-tree-maximum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0257-binary-tree-paths/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0563-binary-tree-tilt/) | Easy |
@@ -111,6 +114,7 @@ Tracking my Leetcoding progress!
 | [0124-binary-tree-maximum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0257-binary-tree-paths/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0563-binary-tree-tilt/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -227,6 +231,7 @@ Tracking my Leetcoding progress!
 | [0003-longest-substring-without-repeating-characters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
+| [0257-binary-tree-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0257-binary-tree-paths/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
