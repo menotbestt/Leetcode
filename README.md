@@ -143,6 +143,7 @@ Tracking my Leetcoding progress!
 | [0198-house-robber](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0213-house-robber-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0216-combination-sum-iii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
@@ -182,6 +183,7 @@ Tracking my Leetcoding progress!
 | [0152-maximum-product-subarray](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0740-delete-and-earn](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0740-delete-and-earn/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -297,6 +299,7 @@ Tracking my Leetcoding progress!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
@@ -327,4 +330,8 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
