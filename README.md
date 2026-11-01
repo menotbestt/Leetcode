@@ -146,6 +146,7 @@ Tracking my Leetcoding progress!
 | [0713-subarray-product-less-than-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
+| [0740-delete-and-earn](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0740-delete-and-earn/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [0994-rotting-oranges](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -180,6 +181,7 @@ Tracking my Leetcoding progress!
 | [0152-maximum-product-subarray](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0213-house-robber-ii/) | Medium |
+| [0740-delete-and-earn](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0740-delete-and-earn/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## DP on Trees
@@ -220,6 +222,7 @@ Tracking my Leetcoding progress!
 | [0438-find-all-anagrams-in-a-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
+| [0740-delete-and-earn](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0740-delete-and-earn/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
