@@ -158,6 +158,7 @@ Tracking my Leetcoding progress!
 | [1004-max-consecutive-ones-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1020-number-of-enclaves](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1472-design-browser-history](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1472-design-browser-history/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -175,6 +176,7 @@ Tracking my Leetcoding progress!
 | [0015-3sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0047-permutations-ii/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +251,7 @@ Tracking my Leetcoding progress!
 | [0042-trapping-rain-water](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0141-linked-list-cycle/) | Easy |
 | [0567-permutation-in-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,6 +316,7 @@ Tracking my Leetcoding progress!
 | [0300-longest-increasing-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
