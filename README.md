@@ -137,6 +137,7 @@ Tracking my Leetcoding progress!
 | [0046-permutations](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0051-n-queens/) | Hard |
+| [0063-unique-paths-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
@@ -187,6 +188,7 @@ Tracking my Leetcoding progress!
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0042-trapping-rain-water/) | Hard |
+| [0063-unique-paths-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
 | [0091-decode-ways](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0091-decode-ways/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -215,6 +217,7 @@ Tracking my Leetcoding progress!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
