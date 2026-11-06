@@ -141,6 +141,7 @@ Tracking my Leetcoding progress!
 | [0064-minimum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0119-pascals-triangle-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0130-surrounded-regions](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0130-surrounded-regions/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0198-house-robber/) | Medium |
@@ -192,6 +193,7 @@ Tracking my Leetcoding progress!
 | [0063-unique-paths-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
 | [0091-decode-ways](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0091-decode-ways/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0198-house-robber/) | Medium |
