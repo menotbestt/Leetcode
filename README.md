@@ -188,6 +188,7 @@ Tracking my Leetcoding progress!
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0042-trapping-rain-water/) | Hard |
+| [0062-unique-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
 | [0091-decode-ways](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0091-decode-ways/) | Medium |
@@ -334,6 +335,7 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0062-unique-paths/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0779-k-th-symbol-in-grammar/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -362,4 +364,8 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0322-coin-change/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
