@@ -152,6 +152,7 @@ Tracking my Leetcoding progress!
 | [0322-coin-change](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
@@ -179,6 +180,7 @@ Tracking my Leetcoding progress!
 | [0015-3sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0047-permutations-ii/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
@@ -247,6 +249,7 @@ Tracking my Leetcoding progress!
 | [0438-find-all-anagrams-in-a-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0740-delete-and-earn](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0740-delete-and-earn/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -318,6 +321,7 @@ Tracking my Leetcoding progress!
 | [0003-longest-substring-without-repeating-characters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1004-max-consecutive-ones-iii/) | Medium |
 ## Binary Search
@@ -375,4 +379,8 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0062-unique-paths/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0594-longest-harmonious-subsequence/) | Easy |
 <!---LeetCode Topics End-->
