@@ -204,6 +204,7 @@ Tracking my Leetcoding progress!
 | [0213-house-robber-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0322-coin-change/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0740-delete-and-earn](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0740-delete-and-earn/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1143-longest-common-subsequence/) | Medium |
@@ -280,6 +281,7 @@ Tracking my Leetcoding progress!
 | [0316-remove-duplicate-letters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0409-longest-palindrome](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0567-permutation-in-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0567-permutation-in-string/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
