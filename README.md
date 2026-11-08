@@ -195,6 +195,7 @@ Tracking my Leetcoding progress!
 | [0062-unique-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
+| [0072-edit-distance](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0091-decode-ways/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0120-triangle/) | Medium |
@@ -276,6 +277,7 @@ Tracking my Leetcoding progress!
 | [0003-longest-substring-without-repeating-characters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
+| [0072-edit-distance](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0091-decode-ways/) | Medium |
 | [0257-binary-tree-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0257-binary-tree-paths/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0316-remove-duplicate-letters/) | Medium |
