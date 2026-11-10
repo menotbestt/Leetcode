@@ -213,6 +213,7 @@ Tracking my Leetcoding progress!
 | [0907-sum-of-subarray-minimums](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1143-longest-common-subsequence/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3693-climbing-stairs-ii/) | Medium |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3747-count-distinct-integers-after-removing-zeros/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -362,6 +363,7 @@ Tracking my Leetcoding progress!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0779-k-th-symbol-in-grammar/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3747-count-distinct-integers-after-removing-zeros/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
