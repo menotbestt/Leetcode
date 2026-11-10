@@ -211,6 +211,7 @@ Tracking my Leetcoding progress!
 | [0516-longest-palindromic-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0740-delete-and-earn](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0740-delete-and-earn/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [1012-numbers-with-repeated-digits](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/1012-numbers-with-repeated-digits/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1143-longest-common-subsequence/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3747-count-distinct-integers-after-removing-zeros/) | Medium |
@@ -362,6 +363,7 @@ Tracking my Leetcoding progress!
 | [0233-number-of-digit-one](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0233-number-of-digit-one/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0779-k-th-symbol-in-grammar/) | Medium |
+| [1012-numbers-with-repeated-digits](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/1012-numbers-with-repeated-digits/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3747-count-distinct-integers-after-removing-zeros/) | Medium |
 ## Recursion
