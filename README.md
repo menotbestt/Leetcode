@@ -205,6 +205,7 @@ Tracking my Leetcoding progress!
 | [0152-maximum-product-subarray](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0213-house-robber-ii/) | Medium |
+| [0233-number-of-digit-one](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0233-number-of-digit-one/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0516-longest-palindromic-subsequence/) | Medium |
@@ -357,6 +358,7 @@ Tracking my Leetcoding progress!
 | ------- | ------- |
 | [0050-powx-n](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0062-unique-paths/) | Medium |
+| [0233-number-of-digit-one](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0233-number-of-digit-one/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0779-k-th-symbol-in-grammar/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -364,6 +366,7 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0050-powx-n/) | Medium |
+| [0233-number-of-digit-one](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0233-number-of-digit-one/) | Hard |
 | [0779-k-th-symbol-in-grammar](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0779-k-th-symbol-in-grammar/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
