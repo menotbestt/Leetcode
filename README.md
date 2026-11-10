@@ -209,6 +209,7 @@ Tracking my Leetcoding progress!
 | [0300-longest-increasing-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0322-coin-change/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0516-longest-palindromic-subsequence/) | Medium |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [0740-delete-and-earn](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0740-delete-and-earn/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1012-numbers-with-repeated-digits](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/1012-numbers-with-repeated-digits/) | Hard |
