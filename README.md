@@ -218,6 +218,7 @@ Tracking my Leetcoding progress!
 | [3693-climbing-stairs-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3747-count-distinct-integers-after-removing-zeros/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3966-count-good-integers-in-a-range](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/3966-count-good-integers-in-a-range/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,6 +371,7 @@ Tracking my Leetcoding progress!
 | [2719-count-of-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2719-count-of-integers/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3747-count-distinct-integers-after-removing-zeros/) | Medium |
+| [3966-count-good-integers-in-a-range](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/3966-count-good-integers-in-a-range/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
