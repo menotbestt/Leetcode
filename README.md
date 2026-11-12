@@ -217,6 +217,7 @@ Tracking my Leetcoding progress!
 | [2719-count-of-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2719-count-of-integers/) | Hard |
 | [2801-count-stepping-numbers-in-range](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2801-count-stepping-numbers-in-range/) | Hard |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2827-number-of-beautiful-integers-in-the-range/) | Hard |
+| [2999-count-the-number-of-powerful-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2999-count-the-number-of-powerful-integers/) | Hard |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/3519-count-numbers-with-non-decreasing-digits/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3747-count-distinct-integers-after-removing-zeros/) | Medium |
@@ -303,6 +304,7 @@ Tracking my Leetcoding progress!
 | [1143-longest-common-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1143-longest-common-subsequence/) | Medium |
 | [2719-count-of-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2719-count-of-integers/) | Hard |
 | [2801-count-stepping-numbers-in-range](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2801-count-stepping-numbers-in-range/) | Hard |
+| [2999-count-the-number-of-powerful-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2999-count-the-number-of-powerful-integers/) | Hard |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/3519-count-numbers-with-non-decreasing-digits/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -375,6 +377,7 @@ Tracking my Leetcoding progress!
 | [1012-numbers-with-repeated-digits](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/1012-numbers-with-repeated-digits/) | Hard |
 | [2719-count-of-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2719-count-of-integers/) | Hard |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2827-number-of-beautiful-integers-in-the-range/) | Hard |
+| [2999-count-the-number-of-powerful-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2999-count-the-number-of-powerful-integers/) | Hard |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/3519-count-numbers-with-non-decreasing-digits/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3747-count-distinct-integers-after-removing-zeros/) | Medium |
