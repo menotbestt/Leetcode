@@ -387,6 +387,7 @@ Tracking my Leetcoding progress!
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/3519-count-numbers-with-non-decreasing-digits/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3747-count-distinct-integers-after-removing-zeros/) | Medium |
+| [3870-count-commas-in-range](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3870-count-commas-in-range/) | Easy |
 | [3966-count-good-integers-in-a-range](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/3966-count-good-integers-in-a-range/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
