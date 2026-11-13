@@ -172,6 +172,7 @@ Tracking my Leetcoding progress!
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -388,6 +389,7 @@ Tracking my Leetcoding progress!
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3747-count-distinct-integers-after-removing-zeros/) | Medium |
 | [3870-count-commas-in-range](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3870-count-commas-in-range/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3966-count-good-integers-in-a-range](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/3966-count-good-integers-in-a-range/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
