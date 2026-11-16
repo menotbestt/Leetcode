@@ -309,6 +309,7 @@ Tracking my Leetcoding progress!
 | [0988-smallest-string-starting-from-leaf](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1143-longest-common-subsequence/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2719-count-of-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2719-count-of-integers/) | Hard |
 | [2801-count-stepping-numbers-in-range](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2801-count-stepping-numbers-in-range/) | Hard |
 | [2999-count-the-number-of-powerful-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2999-count-the-number-of-powerful-integers/) | Hard |
@@ -430,4 +431,8 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1143-longest-common-subsequence/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
