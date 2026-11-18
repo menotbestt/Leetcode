@@ -312,6 +312,7 @@ Tracking my Leetcoding progress!
 | [2243-calculate-digit-sum-of-a-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2719-count-of-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2719-count-of-integers/) | Hard |
 | [2801-count-stepping-numbers-in-range](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2801-count-stepping-numbers-in-range/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [2999-count-the-number-of-powerful-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2999-count-the-number-of-powerful-integers/) | Hard |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/3519-count-numbers-with-non-decreasing-digits/) | Hard |
 ## Bracket Sequences
