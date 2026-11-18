@@ -16,6 +16,7 @@ Tracking my Leetcoding progress!
 | [0052-n-queens-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0079-word-search/) | Medium |
 | [0216-combination-sum-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0216-combination-sum-iii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0257-binary-tree-paths/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0797-all-paths-from-source-to-target/) | Medium |
@@ -23,6 +24,7 @@ Tracking my Leetcoding progress!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -142,6 +144,7 @@ Tracking my Leetcoding progress!
 | [0063-unique-paths-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0119-pascals-triangle-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0120-triangle/) | Medium |
@@ -248,6 +251,7 @@ Tracking my Leetcoding progress!
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0130-surrounded-regions/) | Medium |
 | [0733-flood-fill](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0994-rotting-oranges/) | Medium |
@@ -298,6 +302,7 @@ Tracking my Leetcoding progress!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0097-interleaving-string/) | Medium |
 | [0257-binary-tree-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0257-binary-tree-paths/) | Easy |
