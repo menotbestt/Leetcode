@@ -101,6 +101,7 @@ Tracking my Leetcoding progress!
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -120,6 +121,7 @@ Tracking my Leetcoding progress!
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -146,6 +148,7 @@ Tracking my Leetcoding progress!
 | [0078-subsets](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0120-triangle/) | Medium |
 | [0130-surrounded-regions](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0130-surrounded-regions/) | Medium |
@@ -441,4 +444,12 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
