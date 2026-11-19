@@ -33,6 +33,7 @@ Tracking my Leetcoding progress!
 | [0207-course-schedule](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0207-course-schedule/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0257-binary-tree-paths/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0563-binary-tree-tilt/) | Easy |
@@ -109,6 +110,7 @@ Tracking my Leetcoding progress!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0257-binary-tree-paths/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0563-binary-tree-tilt/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -129,6 +131,7 @@ Tracking my Leetcoding progress!
 | [0129-sum-root-to-leaf-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0257-binary-tree-paths/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0563-binary-tree-tilt/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -242,6 +245,7 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0543-diameter-of-binary-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0563-binary-tree-tilt/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
