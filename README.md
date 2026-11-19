@@ -175,6 +175,7 @@ Tracking my Leetcoding progress!
 | [1267-count-servers-that-communicate](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1472-design-browser-history](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1472-design-browser-history/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -196,6 +197,7 @@ Tracking my Leetcoding progress!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,6 +388,7 @@ Tracking my Leetcoding progress!
 | [0316-remove-duplicate-letters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0316-remove-duplicate-letters/) | Medium |
 | [0409-longest-palindrome](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0409-longest-palindrome/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
