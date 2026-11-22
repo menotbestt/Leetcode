@@ -178,6 +178,7 @@ Tracking my Leetcoding progress!
 | [1267-count-servers-that-communicate](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1472-design-browser-history](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1472-design-browser-history/) | Medium |
+| [2140-solving-questions-with-brainpower](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2140-solving-questions-with-brainpower/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -232,6 +233,7 @@ Tracking my Leetcoding progress!
 | [0907-sum-of-subarray-minimums](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0907-sum-of-subarray-minimums/) | Medium |
 | [1012-numbers-with-repeated-digits](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/1012-numbers-with-repeated-digits/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1143-longest-common-subsequence/) | Medium |
+| [2140-solving-questions-with-brainpower](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2140-solving-questions-with-brainpower/) | Medium |
 | [2719-count-of-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2719-count-of-integers/) | Hard |
 | [2801-count-stepping-numbers-in-range](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2801-count-stepping-numbers-in-range/) | Hard |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2827-number-of-beautiful-integers-in-the-range/) | Hard |
