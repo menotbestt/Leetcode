@@ -95,6 +95,7 @@ Tracking my Leetcoding progress!
 | [0739-daily-temperatures](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0907-sum-of-subarray-minimums/) | Medium |
+| [1006-clumsy-factorial](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1006-clumsy-factorial/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1472-design-browser-history](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1472-design-browser-history/) | Medium |
 ## Tree
@@ -408,6 +409,7 @@ Tracking my Leetcoding progress!
 | [0233-number-of-digit-one](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/0233-number-of-digit-one/) | Hard |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0779-k-th-symbol-in-grammar/) | Medium |
+| [1006-clumsy-factorial](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1006-clumsy-factorial/) | Medium |
 | [1012-numbers-with-repeated-digits](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/1012-numbers-with-repeated-digits/) | Hard |
 | [1352-product-of-the-last-k-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [2719-count-of-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2719-count-of-integers/) | Hard |
@@ -461,6 +463,7 @@ Tracking my Leetcoding progress!
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1006-clumsy-factorial](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1006-clumsy-factorial/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
