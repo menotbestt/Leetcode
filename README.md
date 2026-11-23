@@ -176,6 +176,7 @@ Tracking my Leetcoding progress!
 | [1020-number-of-enclaves](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1020-number-of-enclaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1267-count-servers-that-communicate/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1472-design-browser-history](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1472-design-browser-history/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2140-solving-questions-with-brainpower/) | Medium |
@@ -358,6 +359,7 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0901-online-stock-span/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1472-design-browser-history](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1472-design-browser-history/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -367,6 +369,7 @@ Tracking my Leetcoding progress!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0901-online-stock-span/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1472-design-browser-history](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1472-design-browser-history/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -389,6 +392,7 @@ Tracking my Leetcoding progress!
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -405,6 +409,7 @@ Tracking my Leetcoding progress!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0779-k-th-symbol-in-grammar/) | Medium |
 | [1012-numbers-with-repeated-digits](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/1012-numbers-with-repeated-digits/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [2719-count-of-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2719-count-of-integers/) | Hard |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2827-number-of-beautiful-integers-in-the-range/) | Hard |
 | [2999-count-the-number-of-powerful-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2999-count-the-number-of-powerful-integers/) | Hard |
