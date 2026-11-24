@@ -184,6 +184,7 @@ Tracking my Leetcoding progress!
 | [2567-minimum-score-by-changing-two-elements](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/2658-maximum-number-of-fish-in-a-grid/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -381,6 +382,7 @@ Tracking my Leetcoding progress!
 | [0594-longest-harmonious-subsequence](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0594-longest-harmonious-subsequence/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/1004-max-consecutive-ones-iii/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,6 +417,7 @@ Tracking my Leetcoding progress!
 | [2719-count-of-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2719-count-of-integers/) | Hard |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2827-number-of-beautiful-integers-in-the-range/) | Hard |
 | [2999-count-the-number-of-powerful-integers](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/2999-count-the-number-of-powerful-integers/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/menotbestt/Leetcode/tree/main/Python3/Hard/3519-count-numbers-with-non-decreasing-digits/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/3747-count-distinct-integers-after-removing-zeros/) | Medium |
@@ -475,4 +478,12 @@ Tracking my Leetcoding progress!
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/menotbestt/Leetcode/tree/main/Python3/Medium/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/menotbestt/Leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
